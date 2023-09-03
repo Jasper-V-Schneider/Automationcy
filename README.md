@@ -1,5 +1,5 @@
-# AI-Girlfriend
-Create your dream girlfriend and spend time with her!
+# Automationcy
+We higher your productivity by implementing AI tools in your workspace.
 
 https://zzatomic.github.io/AI-Girlfriend/
 
